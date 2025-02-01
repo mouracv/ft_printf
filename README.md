@@ -56,4 +56,5 @@ Personal printf Works
 ```
 
 ## 👨‍💻 Autor
-- [Alexsandro Moreira](https://github.com/mouracv)
+- [GitHub](https://github.com/mouracv)
+- [Linkedin](https://www.linkedin.com/in/alexsandro-moreira-2b438a347/)
